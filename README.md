@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mateusz</h1>
-<h3 align="center">MSc student and a fullstack developer from Poland.</h3>
+<h3 align="center">A .NET developer from Poland.</h3>
 
 <!--- 📫 How to reach me **mateuszmalec97@gmail.com**-->
 
